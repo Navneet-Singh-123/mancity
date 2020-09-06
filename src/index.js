@@ -4,7 +4,6 @@ import "./Resources/css/app.css";
 
 import { BrowserRouter } from "react-router-dom";
 import Routes from "./routes";
-import "./firebase";
 
 // Whatever goes inside the browser router is goin to be our main application in this case it is routes.js
 
